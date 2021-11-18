@@ -5,7 +5,7 @@ Order by 3,4
 
 
 --SELECT * 
---FROM dbo.CovidVaccinations
+--FROM PortfolioProject..CovidVaccinations
 --Order by 3,4
 
 
